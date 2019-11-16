@@ -4,7 +4,7 @@ A Python3 and tensorflow=1.12.0 implementation of TinyDenseNet and provide train
 
 According to the paper: [DenseNet Models for Tiny ImageNet Classification](https://arxiv.org/abs/1904.10429).
 
-## Requirment
+## Requirements
 - python=3.6
 - opencv>=3
 - Tensorflow-gpu=1.12.0
